@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanuja Mahendran</h1>
-<h3 align="center">I'm Undergraduate at Sabaragamuwa University of Sri Lanka; I'm an enthusiastic, hardworking, and ambitious undergraduate with a passion for the IT industry with strong communication and interpersonal skills.</h3>
+<h3 align="center">I'm fresh graduate at Sabaragamuwa University of Sri Lanka; I'm an enthusiastic, hardworking, and ambitious undergraduate with a passion for the IT industry with strong communication and interpersonal skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanutheepa&label=Profile%20views&color=0e75b6&style=flat" alt="thanutheepa" /> </p>
 
